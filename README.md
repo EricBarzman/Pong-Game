@@ -16,7 +16,7 @@ The game features :
 
 ## What's inside the repo ?
 
-- The `.cpp` code file (to see the code)
+- The `.cpp` code file
 - raylib.dll
 - a compiled .exe file to run the game on windows (you need the .dll with it)
 
